@@ -1,0 +1,24 @@
+-->PowerBi-Dashboard Public
+Updated 4 days ago
+-->Imbd-Scraping-Analysis Public
+Jupyter Notebook Updated 6 days ago
+-->Egypt-Coronavirus-Analysis Public
+Jupyter Notebook Updated 7 days ago
+-->Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office Public
+Jupyter Notebook Updated 8 days ago
+-->The-Most-Expensive-Football-Transfers Public
+Jupyter Notebook Updated 8 days ago
+-->The-Android-App-Market-on-Google-Play Public
+Jupyter Notebook Updated 8 days ago
+-->AbdelhamidADel Public
+Config files for my GitHub profile.
+config
+github-config
+Updated 16 days ago
+-->Dr.-Semmelweis-the-discovery-of-handwashing-Analysis Public
+Jupyter Notebook Updated on Jun 2
+-->Simple-Python-Projects Public
+simple python projects to enhance your Python skills.
+Jupyter Notebook Updated 11 hours ago
+---------------------------------
+Total Repositories=9
